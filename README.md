@@ -10,8 +10,8 @@
 
 <h1>Полезные материалы</h1>
 
-<a href = "https://metanit.com/cpp/">Изучение С++</a>
-<a href = "https://ru.hexlet.io/programs/git-basics-free">Изучение Git</a>
+- <a href = "https://metanit.com/cpp/">Изучение С++</a>
+- <a href = "https://ru.hexlet.io/programs/git-basics-free">Изучение Git</a>
 
 В папке materials будут иногда появляться полезные материалы!
 
